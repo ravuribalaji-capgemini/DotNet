@@ -1,0 +1,11 @@
+My GitHub site : 
+
+https://github.com/ravuribalaji-capgemini/DotNet
+
+To add / modify new files, go to C drive - Users - Repository Location - DotNet ( My Folder ) - Add files or Modify files.
+
+Everytime, you add files or do any changes kindly use the below process to update 
+
+git add .
+git commit -m " msg  "
+git push origin master
