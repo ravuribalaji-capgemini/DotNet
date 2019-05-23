@@ -1,0 +1,3 @@
+<connectionStrings>
+    <add name="sqlpracticeconn" connectionString="user id=sa;password=P@ssw0rd;data source=DESKTOP-O0TLU2S;initial catalog=sqlpractice;" providerName="System.Data.SqlClient"/>
+  </connectionStrings>
